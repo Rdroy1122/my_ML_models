@@ -1,0 +1,4 @@
+TRAINING DATA SET : 100%
+TESTING DATA SET : 100%
+
+so, accuracy will not change every time when you run code and train the model
