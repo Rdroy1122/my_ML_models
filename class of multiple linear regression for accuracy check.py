@@ -51,8 +51,8 @@ class Mylinear_model:
     plt.plot(train_x,regr.coef_[0][0]*train_x + regr.intercept_[0],'b')
     plt.show()
 
-c1=input("Enter Independent Variable:")
-c3=input("Enter Independent Variable:")
+c1=input("Enter Independent Variable :")
+c3=input("Enter Independent Variable :")
 c2=input("Enter Dependent Variable(Predict Value):")
 
 
